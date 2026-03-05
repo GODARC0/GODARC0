@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Luqmaan</h1>
-<h3 align="center">I'm an Electrical Engineering student with a strong foundation in programming, robotics, and embedded systems. Passionate about developing innovative solutions and eager to apply technical skills through projects, internships, and collaborative opportunities.</h3>
+<h3 align="center">I'm an Electrical Engineering student with a strong foundation in programming, robotics,controls and embedded systems. Passionate about developing innovative solutions and eager to apply technical skills through projects, internships, and collaborative opportunities.</h3>
 
 - 🔭 I’m currently working on **chaser finder robot game**
 
