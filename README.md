@@ -1,17 +1,78 @@
-<h1 align="center">Hi 👋, I'm Mohd Luqmaan</h1>
-<h3 align="center">I'm an Electrical Engineering student with a strong foundation in programming, robotics,controls and embedded systems. Passionate about developing innovative solutions and eager to apply technical skills through projects, internships, and collaborative opportunities.</h3>
+<h1 align="center">Hey, I'm Godarc 🫂</h1>
+<h3 align="center">Electrical Engineer · Control Systems · Robotics</h3>
 
-- 🔭 I’m currently working on **chaser finder robot game**
-
-- 🌱 I’m currently learning **Ros2 , MATLAB , Arduino , Embedded system , DSA in C**
-
-- 💬 Ask me about **Robotics**
-
-- 📫 How to reach me **mohdluqmaanishere@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://github.com/GODARC0"><img src="https://komarev.com/ghpvc/?username=GODARC0&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+##  About Me
+
+I'm a B.Tech Electrical Engineering student at **ZHCET, Aligarh Muslim University** , specializing in **control systems and robotics**. My work sits at the intersection of control theory, embedded firmware, and intelligent systems — I build things that balance, respond, and adapt.
+
+-  Research intern at **NIT Calicut SIP 2026**
+-  **SIH 2025 Finalist** · NPTEL Robotics Certification, IIT Kharagpur
+-  Active member & workshop lead at **IEEE RAS, AMU**
+-  Long-term goal: **Master's in Robotics** 
+-  Currently studying Japanese
+
+---
+
+## 🔧 What I'm Working On & Learning
+
+### 🚀 Active Projects
+| Project | Status |
+|---|---|
+| **Self-Balancing Robot** | 🟡 In Progress |
+| **SmartGuard** | 🟡 Phase 2 |
+| **MATLAB Predictive Maintenance** | 🟡 Active |
+
+### 📚 Currently Learning
+- `Model Predictive Control (MPC)` · `LQR & State-Space Methods` · `Multi-Agent Control`
+- `ROS2` for robotics middleware
+- `Japanese` — regular study.
+
+---
+
+## 🛠 Tools & Technologies
+
+### Proficient
+
+<p>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Simulink-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00878A?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+###  Currently Learning
+
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fusion%20360-FF6600?style=for-the-badge&logo=autodesk&logoColor=white" />
+</p>
+
+---
+
+##  Connect With Me
+
+<p>
+  <a href="https://github.com/GODARC0">
+    <img src="https://img.shields.io/badge/GitHub-GODARC0-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HERE">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL_HERE">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> Open to research collaborations, robotics discussions, and internship/project opportunities in **control systems & robotics**.
+
+---
