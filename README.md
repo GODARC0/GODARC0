@@ -26,7 +26,7 @@ I'm a B.Tech Electrical Engineering student at **ZHCET, Aligarh Muslim Universit
 |---|---|
 | **Self-Balancing Robot** | 🟡 In Progress |
 | **SmartGuard** | 🟡 Phase 2 |
-| ** Various MATLAB Projects** | 🟡 Active |
+| **Various MATLAB Projects** | 🟡 Active |
 
 ### 📚 Currently Learning
 - `Model Predictive Control (MPC)` · `LQR & State-Space Methods` · `Multi-Agent Control`
